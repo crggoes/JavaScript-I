@@ -1,0 +1,16 @@
+Ao navegar em uma página da web, podemos identificar sinais indicativos do uso de JavaScript por meio do comportamento interativo. 
+Aqui estão alguns exemplos de comportamentos que podem sugerir o uso de JavaScript:
+
+1 - Mudanças dinâmicas na página: 
+Se você notar que parte da página é atualizada dinamicamente sem a necessidade de atualizar a página inteira, 
+é provável que o JavaScript esteja sendo usado para manipular o conteúdo.
+
+2 - Respostas a eventos de usuário: 
+Se houver uma resposta imediata ou uma ação em resposta a uma interação do usuário, como um clique em um botão que 
+causa uma animação ou uma atualização de conteúdo em tempo real, isso indica o uso de JavaScript.
+
+3 - Validação de formulário: 
+Se um formulário em uma página da web possui validação em tempo real, como a verificação de campos obrigatórios ou 
+o formato correto em um endereço de e-mail, é provável que o JavaScript esteja sendo usado para realizar essa validação 
+antes que os dados sejam enviados ao servidor.
+
